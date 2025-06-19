@@ -1,0 +1,21 @@
+{
+  "name": "code_analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/another-acc-l/code_analyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/another-acc-l/code_analyzer/issues"
+  },
+  "homepage": "https://github.com/another-acc-l/code_analyzer#readme"
+}

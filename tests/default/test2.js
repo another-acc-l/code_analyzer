@@ -1,0 +1,1 @@
+for (let i=0; i < 100; i++) console.log("This is line number " + (i + 1)); /* How many lines of code is that ?*/
